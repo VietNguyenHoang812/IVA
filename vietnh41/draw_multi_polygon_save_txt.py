@@ -28,7 +28,7 @@ cv2.namedWindow('image')
 cv2.setMouseCallback('image', click_event)
 
 # Tải ảnh
-img = cv2.imread('imgsave.jpg')
+img = cv2.imread('vietnh41/frame_base.jpg')
 cv2.imshow('image', img)
 
 # Chờ phím enter được nhấn
